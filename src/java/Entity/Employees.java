@@ -6,7 +6,8 @@ package Entity;
 
 /**
  *
- * @author Duv
+ * @author duv
+ *
  */
 public class Employees {
 
